@@ -6,3 +6,4 @@ How to use
 2. open cs:go
 3. enjoy
 4. hold right shift to use trigger bot
+5. .
