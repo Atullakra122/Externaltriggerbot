@@ -1,5 +1,7 @@
 # Externaltriggerbot
+# About
 simple trigger bot you can edit code and make it advance
+# ✅Setup
 =>How to use trigger bot
 1. build this solution
 2. open cs:go
